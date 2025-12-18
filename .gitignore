@@ -1,0 +1,19 @@
+# Entornos virtuales
+venv/
+env/
+vehicles_env/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Variables de entorno
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
