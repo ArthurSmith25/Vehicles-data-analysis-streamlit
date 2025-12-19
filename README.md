@@ -21,7 +21,9 @@ La interfaz permite una exploración dinámica mediante:
 3. **Control de Visualización:** Botones de acción y checkboxes que permiten generar gráficos bajo demanda, optimizando la experiencia de usuario y el rendimiento de la app.
 
 ## ✨ Demostración Interactiva
-![Demostración del Dashboard en acción](dashboard_demo.gif)
+<p align="center">
+  <img src="dashboard_demo.gif" alt="Demo Dashboard" width="800">
+</p>
 *Explora cómo los filtros dinámicos revelan insights del mercado automotriz.*
 
 ## 🛠️ Stack Tecnológico
